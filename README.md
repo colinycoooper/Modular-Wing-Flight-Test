@@ -1,4 +1,4 @@
-# Modular-Wing-Flight-Test-
+# Modular-Wing-Flight-Test
 Independent UAS flight test program characterizing lift and drag  performance across interchangeable wing configurations using XFLR5,  OpenFOAM, ArduPlane telemetry, and custom Python analysis tools.
 # Modular Wing Comparative Aerodynamics — UAS Flight Test Program
 
@@ -71,7 +71,8 @@ XFLR5 and OpenFOAM predictions.
 |-------|--------|
 | Systems Requirements Document | Complete |
 | Airfoil selection — XFLR5 2D analysis | Complete |
-| 3D wing analysis — XFLR5 VLM | In progress |
+| 3D wing analysis — XFLR5 VLM | Complete |
+| Pre-flight analysis pipeline — Python/Jupyter |🔄 In progress|
 | Airframe CAD — Fusion 360 | Planned |
 | CFD analysis — OpenFOAM | Planned |
 | Fabrication | Planned |
